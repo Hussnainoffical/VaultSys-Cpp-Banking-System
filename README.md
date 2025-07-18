@@ -1,6 +1,6 @@
 #  VaultSys — Secure Virtual Banking System in Classic C++
 
-**VaultSys** is a high-integrity, role-based virtual banking system built in **pure C++ (C++11)** without using STL or modern C++ abstractions. It showcases mastery of **OOP**, **SOLID design principles**, and **real-world design patterns** — all implemented with raw pointers, arrays, and manual memory/file management.
+**VaultSys** is a high-integrity, role-based virtual banking system built in. It showcases mastery of **OOP**, **SOLID design principles**, and **real-world design patterns** — all implemented with raw pointers, arrays, and manual memory/file management.
 
 ---
 
